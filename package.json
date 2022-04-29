@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/abhinav-bhateja/redux-toolkit-learn#readme",
   "dependencies": {
+    "immer": "9.0.12",
     "redux": "4.2.0"
   }
 }
